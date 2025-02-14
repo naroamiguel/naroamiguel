@@ -1,10 +1,10 @@
 ## Hi, I'm Naroa Miguel!
 ## I'm a Data Analyst with business knowledge who feels fullfilled when helping companies take advantage of the new technologies offer to give data value. That's why I'm learning Data Science, to not only provide clients with a full perpective of their real situation and evolution, but also give them an image of a pretty probable future scenery, in order to make their decision process easier.
 
-##Hola, soy Naroa Miguel.
+## Hola, soy Naroa Miguel.
 ## Soy un analista de datos con conocimientos empresariales que se siente realizada ayudando a organizaciones a aprovechar las nuevas tecnologías para dar valor a sus datos. Por eso estoy aprendiendo Data Sciente, para no sólo proveer a la clientela de una perspectiva completa de su situación real y evolución, sino también una imagen de un más que probable escenario futuro, para facilitar su proceso de toma de decisiones.
 
-##Kaixo, Naroa Miguel naiz.
+## Kaixo, Naroa Miguel naiz.
 ## Enpresa ezagutza duen data analista naiz, erakundeei beren datuei balio emateko teknologia berriez baliatzen laguntzen diena. Horregatik, Data Sciente ikasten ari naiz, bezeroei beren benetako egoeraren eta bilakaeraren ikuspegi osoa erakusteaz gain, oso probablea den etorkizunaren irudi bat ere emateko, beren erabaki-prozesua errazteko.
 
 <!--
